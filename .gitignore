@@ -1,0 +1,9 @@
+*.idea*
+*.pyc
+*.log
+*.swp
+*.pyc
+.DS_Store
+.fuse_*
+*.pid
+*.*~

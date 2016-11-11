@@ -1,0 +1,21 @@
+{
+	"PSA_id":"bandwidthControl",
+	"disk": "PSA-bwcontrol.img",
+	"interface": [
+			{
+			"network":"data", 
+			"type":"data_in"
+			},
+			{
+			"network":"data", 
+			"type":"data_out"
+			},
+			{
+			"network":"control", 
+			"type":"manage"
+			}
+		],
+	"memory": "1024",
+	"os-architecture": "x86_64",
+	"vcpu": "1"
+}
