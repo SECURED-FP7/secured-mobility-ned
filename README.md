@@ -6,7 +6,7 @@ Introduction
 
 Scenario
 --------
-This readme describes the testbed setup for the mobility case scenario. If you want configure NED please check the [README.md](https://gitlab.secured-fp7.eu/secured/ned) in the SECURED/Ned branch master.
+This readme describes the testbed setup for the mobility case scenario. If you want configure NED please check the [README.md](https://github.com/SECURED-FP7/secured-ned/blob/master/README.md) in the secured-ned **master** branch.
 
 ![Environment[fig:proto]](images/esquema_testned.png)
 
